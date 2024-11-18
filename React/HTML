@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Cards</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="product-container">
+        <div class="product-card">
+            <img src="nike1.jpg" alt="Nike Air Force 1 '07">
+            <h3>Nike Air Force 1 '07</h3>
+            <p>Men's Shoe</p>
+            <p class="price">Rp. 1.549.000</p>
+            <button class="add-to-cart">Add to cart</button>
+        </div>
+        <div class="product-card">
+            <img src="nike2.jpg" alt="Nike Air Force 1 '07">
+            <h3>Nike Air Force 1 '07</h3>
+            <p>Men's Shoe</p>
+            <p class="price">Rp. 1.549.000</p>
+            <button class="add-to-cart">Add to cart</button>
+        </div>
+        <div class="product-card">
+            <img src="nike3.jpg" alt="Nike Air Force 1 '07">
+            <h3>Nike Air Force 1 '07</h3>
+            <p>Men's Shoe</p>
+            <p class="price">Rp. 1.549.000</p>
+            <button class="add-to-cart">Add to cart</button>
+        </div>
+    </div>
+</body>
+</html>
